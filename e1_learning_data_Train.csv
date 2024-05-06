@@ -1,4 +1,4 @@
-subject_id,task_part,block_condition,block_order,task_block,trial_index,stimulus,cat_type,mean_cat_reward,approach_reward,key_press,rt,points,stimulus_repetition,correct_response,correct_response_made
+subject_id,task_part,block_condition,block_order,task_block,trial_index,stimulus,class,mean_cat_reward,approach_reward,key_press,rt,points,stimulus_repetition,correct_response,correct_response_made
 3768,learning,2,1,animals,73,images/horse7.png,neutral,0,2,1,1148,2,1,1,1
 3768,learning,2,1,animals,75,images/cow5.png,bad,-3,-4,0,347,0,1,0,1
 3768,learning,2,1,animals,77,images/cow8.png,bad,-3,-2,1,618,-2,1,0,0

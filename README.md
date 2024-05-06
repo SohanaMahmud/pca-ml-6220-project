@@ -1,1 +1,1 @@
-# pca-ml-6220-project
+INSE 6220: Advanced Statistical Approaches to Quality project
